@@ -1,0 +1,41 @@
+{
+  "user1":
+  {
+  "email" : "aatish@lenditt.com",
+  "password" : "Lenditt@14",
+  "otp" : "4848",
+  "loanID" : "L-549108",
+  "loanPdf" : "C:\\Users\\lendi\\OneDrive\\Desktop\\Users loan agreement pdf files\\August\\25-08-2023\\loan-agmnt1.pdf"
+  },
+    "user2": {
+  "email" : "aatish@lenditt.com",
+  "password" : "Lenditt@14",
+  "otp" : "4848",
+  "loanID" : "L-549126",
+  "loanPdf" : "C:\\Users\\lendi\\OneDrive\\Desktop\\Users loan agreement pdf files\\August\\25-08-2023\\loan-agmnt2.pdf"
+  },
+  "user3": {
+  "email" : "aatish@lenditt.com",
+  "password" : "Lenditt@14",
+  "otp" : "4848",
+  "loanID" : "L-549141",
+  "loanPdf" : "C:\\Users\\lendi\\OneDrive\\Desktop\\Users loan agreement pdf files\\August\\25-08-2023\\loan-agmnt3.pdf"
+  },
+    "user4": {
+  "email" : "aatish@lenditt.com",
+  "password" : "Lenditt@14",
+  "otp" : "4848",
+  "loanID" : "L-548900",
+  "loanPdf" : "C:\\Users\\lendi\\OneDrive\\Desktop\\Users loan agreement pdf files\\August\\25-08-2023\\loan-agmnt4.pdf"
+  },
+  "user5": {
+  "email" : "aatish@lenditt.com",
+  "password" : "Lenditt@14",
+  "otp" : "4848",
+  "loanID" : "L-549084",
+  "loanPdf" : "C:\\Users\\lendi\\OneDrive\\Desktop\\Users loan agreement pdf files\\August\\25-08-2023\\loan-agmnt5.pdf"
+  }
+
+}
+
+

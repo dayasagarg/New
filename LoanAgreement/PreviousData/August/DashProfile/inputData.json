@@ -1,0 +1,26 @@
+{
+  "user1":
+  {
+  "email" : "dayasagar.ghodake@lenditt.com",
+  "password" : "Dsg@9373",
+  "otp" : "1111",
+  "loanID" : "L-483738",
+  "loanPdf" : "C:\\Users\\lendi\\OneDrive\\Desktop\\Users\\1688312573612.pdf"
+  },
+    "user2": {
+  "email" : "dayasagar.ghodake@lenditt.com",
+  "password" : "Dsg@9373",
+  "otp" : "1111",
+  "loanID" : "L-543880",
+  "loanPdf" : "C:\\Users\\lendi\\OneDrive\\Desktop\\Users\\esign_1692592060006.pdf"
+  },
+  "user3": {
+  "email" : "dayasagar.ghodake@lenditt.com",
+  "password" : "Dsg@9373",
+  "otp" : "1111",
+  "loanID" : "L-507442",
+  "loanPdf" : "C:\\Users\\lendi\\OneDrive\\Desktop\\Users\\1689797832831.pdf"
+  }
+}
+
+

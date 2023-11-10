@@ -1,0 +1,54 @@
+{
+  "user1": {
+    "email": "dayasagar.ghodake@lenditt.com",
+    "password": "Zodsw@6759",
+    "otp": "4848",
+    "loanID": "L-555543",
+    "loanPdf": "C:\\Users\\lendi\\OneDrive\\Desktop\\Users loan agreement pdf files\\September\\06-09-2023\\la1.pdf"
+  },
+  "user2": {
+    "email": "dayasagar.ghodake@lenditt.com",
+    "password": "Zodsw@6759",
+    "otp": "4848",
+    "loanID": "L-566582",
+    "loanPdf": "C:\\Users\\lendi\\OneDrive\\Desktop\\Users loan agreement pdf files\\September\\06-09-2023\\la2.pdf"
+  },
+  "user3": {
+    "email": "dayasagar.ghodake@lenditt.com",
+    "password": "Zodsw@6759",
+    "otp": "4848",
+    "loanID": "L-563016",
+    "loanPdf": "C:\\Users\\lendi\\OneDrive\\Desktop\\Users loan agreement pdf files\\September\\06-09-2023\\la3.pdf"
+  },
+  "user4": {
+    "email": "dayasagar.ghodake@lenditt.com",
+    "password": "Zodsw@6759",
+    "otp": "4848",
+    "loanID": "L-566726",
+    "loanPdf": "C:\\Users\\lendi\\OneDrive\\Desktop\\Users loan agreement pdf files\\September\\06-09-2023\\la4.pdf"
+  },
+  "user5": {
+    "email": "dayasagar.ghodake@lenditt.com",
+    "password": "Zodsw@6759",
+    "otp": "9359",
+    "loanID": "L-566776",
+    "loanPdf": "C:\\Users\\lendi\\OneDrive\\Desktop\\Users loan agreement pdf files\\September\\06-09-2023\\la5.pdf"
+  },
+    "user6": {
+    "email": "dayasagar.ghodake@lenditt.com",
+    "password": "Zodsw@6759",
+    "otp": "9359",
+    "loanID": "L-565620",
+    "loanPdf": "C:\\Users\\lendi\\OneDrive\\Desktop\\Users loan agreement pdf files\\September\\06-09-2023\\la6.pdf"
+  },
+      "user7": {
+    "email": "dayasagar.ghodake@lenditt.com",
+    "password": "Zodsw@6759",
+    "otp": "9359",
+    "loanID": "L-567025",
+    "loanPdf": "C:\\Users\\lendi\\OneDrive\\Desktop\\Users loan agreement pdf files\\September\\06-09-2023\\la7.pdf"
+  }
+}
+
+
+
